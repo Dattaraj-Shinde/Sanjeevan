@@ -30,13 +30,9 @@ A React Native mobile application that provides real-time air quality monitoring
 - **OpenAQ API** - Air quality data from global monitoring stations
 - **Open-Meteo API** - Weather data
 
-### Styling & Design
-- **Expo Linear Gradient** - Beautiful gradient backgrounds
-- **Expo Vector Icons** - Comprehensive icon library
-- **Poppins & Inter Fonts** - Modern typography
-
 ### Storage
 - **AsyncStorage** - Local data persistence
+
 
 
 Made with ❤️ for healthier breathing and informed living.
